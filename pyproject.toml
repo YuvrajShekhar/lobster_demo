@@ -1,5 +1,7 @@
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+addopts = "-v --color=yes"
+console_output_style = "classic"
 
 [tool.mypy]
 python_version = "3.12"
