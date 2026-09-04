@@ -42,3 +42,5 @@ docker run -p 8000:8000 flatfile2json
 
 Stateless single container - no Postgres, no other services, so it's a
 one-service Railway deploy.
+
+<img width="1886" height="432" alt="image" src="https://github.com/user-attachments/assets/2175b4eb-5989-4ca8-b5a3-212bdfa2d513" />
